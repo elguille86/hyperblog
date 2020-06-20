@@ -4,3 +4,5 @@ Freddy Vega tiene 33 años y nació en Lima,
 viviendo en todo el mundo
 
 Hoy hablaremos de su historia.
+Es un desarrollador que inicio el mundo de app de escritorio y migro a las apps web.
+conoce ASP.NET y PHP , pero las ha usado php
