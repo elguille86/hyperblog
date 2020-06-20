@@ -6,3 +6,5 @@ viviendo en todo el mundo
 Hoy hablaremos de su historia.
 Es un desarrollador que inicio el mundo de app de escritorio y migro a las apps web.
 conoce ASP.NET y PHP , pero las ha usado php
+
+Tiene el Cargo de Ing de Sistemas en una entidad de Salud
